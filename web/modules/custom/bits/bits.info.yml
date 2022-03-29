@@ -1,0 +1,6 @@
+name: Entrenamiento Bits  
+description: Realizar prueba de formulario para taller  
+package: Custom
+
+type: module  
+core_version_requirement: ^8 || ^9

@@ -1,0 +1,7 @@
+entrenamiento_bits.form:
+    path: '/entrenamiento'
+    defaults:
+        _form: 'Drupal\entrenamiento_bits\Form\EntrenamientoBits'
+        _title: 'Token test'
+    requirements:    
+        _permission : 'custom_module_permission'

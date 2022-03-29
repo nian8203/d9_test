@@ -1,0 +1,7 @@
+bits.admin_settings_form:
+  path: '/admin/config/bits'
+  defaults:
+    _form: '\Drupal\bits\Form\Bits'
+    _title: 'Form Entrenamiento Bits'
+  requirements:
+    _permission: 'bits form access'
